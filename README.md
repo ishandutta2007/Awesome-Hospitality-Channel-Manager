@@ -40,63 +40,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[SiteMinder](https://www.siteminder.com/)**  
-
-  Leading global channel manager and hotel distribution platform — rules-based rate/availability control, wide OTA connectivity, and strong adoption across independent and group hotels.
-
-
-
-- **[Cloudbeds Channel Manager (myallocator)](https://www.cloudbeds.com/)**  
-
-  Channel management tightly integrated with the Cloudbeds PMS — real-time sync across hundreds of OTAs, popular with independents and multi-property operators.
-
-
-
-- **[eZee Centrix](https://www.ezeeabsolute.com/)**  
-
-  Channel manager and distribution solution often paired with eZee PMS for hotels seeking unified operations and OTA connectivity.
-
-
-
-- **[RateGain Channel Manager](https://rategain.com/)**  
-
-  Distribution and channel management capabilities within RateGain’s broader hospitality technology portfolio, including rate intelligence.
-
-
-
-- **[STAAH](https://www.staah.com/)**  
-
-  Channel manager and hotel technology platform focused on distribution, booking engine, and connectivity for independent hotels and groups.
-
-
-
-- **[HotelRunner](https://www.hotelrunner.com/)**  
-
-  Channel manager and distribution platform serving hotels and alternative accommodations with multi-channel inventory sync.
-
-
-
-- **[Cubilis](https://www.cubilis.eu/)**  
-
-  European channel manager popular for connecting hotels to major OTAs and managing rates and availability centrally.
-
-
-
-- **[Availpro (D-EDGE)](https://www.d-edge.com/)**  
-
-  Channel management and distribution technology within the D-EDGE hospitality portfolio.
-
-
-
-- **[D-EDGE](https://www.d-edge.com/)**  
-
-  Hospitality distribution and digital platform offering channel management, booking engine, and related services.
-
-
-
-- **[RoomCloud](https://www.roomcloud.com/)**  
-
-  Channel manager focused on real-time inventory and rate distribution for hotels.
+| Product | Description | Starting Price | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[SiteMinder](https://www.siteminder.com/)** | Leading global channel manager and hotel distribution platform — rules-based rate/availability control, wide OTA connectivity, and strong adoption across independent and group hotels. | Starts at ~$56/month (scales with room count and selected tier) | 14-day free trial (full platform access, no credit card required) |
+| **[Cloudbeds Channel Manager (myallocator)](https://www.cloudbeds.com/)** | Channel management tightly integrated with the Cloudbeds PMS — real-time sync across hundreds of OTAs, popular with independents and multi-property operators. | Starts at ~$180/month (base package based on property room count) | No free tier; free live product demo available upon request |
+| **[eZee Centrix](https://www.ezeeabsolute.com/)** | Channel manager and distribution solution often paired with eZee PMS for hotels seeking unified operations and OTA connectivity. | Starts at $29/month (Essential tier for small properties) | 14-day free trial (full access to channel distribution and rate sync features) |
+| **[RateGain Channel Manager](https://rategain.com/)** | Distribution and channel management capabilities within RateGain’s broader hospitality technology portfolio, including rate intelligence. | Starts at ~$25/month (entry-level rate intelligence & distribution modules) | No free tier; free guided product demo and trial available on request |
+| **[STAAH](https://www.staah.com/)** | Channel manager and hotel technology platform focused on distribution, booking engine, and connectivity for independent hotels and groups. | Starts at ~$70/month (Instant Channel Manager plan for boutique properties) | No permanent free tier; free demo available (occasional 3-month trial promotions with annual commitment) |
+| **[HotelRunner](https://www.hotelrunner.com/)** | Channel manager and distribution platform serving hotels and alternative accommodations with multi-channel inventory sync. | Starts at $19.95/month (Essential Manage) / $29.95/month (Essential Sell: 1.25% revenue fee or $29.95/mo minimum) | 14-day free trial on premium plans; basic platform tier with limited channels available |
+| **[Cubilis](https://www.cubilis.eu/)** | European channel manager popular for connecting hotels to major OTAs and managing rates and availability centrally (part of Lighthouse). | Starts at ~€15–€40/month (tiered based on property room/unit count) | 14-day free trial (full channel management and booking engine access) |
+| **[Availpro (D-EDGE)](https://www.d-edge.com/)** | Channel management and distribution technology within the D-EDGE hospitality portfolio. | Starts at ~€150/month (enterprise package based on property room count) | No free tier; module-specific trial or demo available upon request |
+| **[D-EDGE](https://www.d-edge.com/)** | Hospitality distribution and digital platform offering channel management, booking engine, and related services. | Starts at ~€150/month (scales with room count and PMS integrations) | No free tier; custom guided demo and scheduled trial period on contract agreement |
+| **[RoomCloud](https://www.roomcloud.com/)** | Channel manager focused on real-time inventory and rate distribution for hotels. | Starts at ~$25/month (or ~€25/month / ~$300/year for entry-level room tier) | 30-day free trial (full access to channel manager and multi-OTA syncing) |
 
 
 
